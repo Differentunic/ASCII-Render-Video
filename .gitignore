@@ -1,0 +1,13 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+cmake-build-debug
+cmake-build-release
+Bad Apple ASCII
+ffmpeg.json
+Bad Apple ASCII.7z
